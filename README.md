@@ -1,13 +1,12 @@
 # EPizza Application - Multi-Tech Stack Repository
 
-A comprehensive monorepo containing the EPizza Application built with multiple technologies: .NET, Python, React, and Azure.
+A comprehensive monorepo containing supporting services and infrastructure for the EPizza Application built with multiple technologies: .NET, Python, React, and Azure.
 
 ## Project Structure
 
 ```
 EPizzaApplication/
 ├── .NET/                 # .NET Backend Services
-│   └── EPizzaApplication/    # Main EPizza Application
 ├── Python/              # Python Data & ML Services
 ├── React/               # React Frontend Applications
 ├── Azure/               # Azure Cloud Infrastructure & DevOps

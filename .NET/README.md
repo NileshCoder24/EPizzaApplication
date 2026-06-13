@@ -10,12 +10,7 @@ This directory contains all .NET-based backend services for the EPizza Applicati
 
 ## Projects
 
-### EPizza Application
-- `EPizzaApplication/` - Main EPizza Application project (.NET backend)
-
-### Additional Projects
-
-Add your other .NET projects here:
+Add your .NET projects here:
 
 - `API/` - REST API services
 - `Services/` - Business logic services
@@ -25,7 +20,7 @@ Add your other .NET projects here:
 ## Getting Started
 
 ```bash
-cd .NET/EPizzaApplication
+cd .NET
 # Add your project setup instructions here
 ```
 
