@@ -7,6 +7,7 @@ A comprehensive monorepo containing the EPizza Application built with multiple t
 ```
 EPizzaApplication/
 ├── .NET/                 # .NET Backend Services
+│   └── EPizzaApplication/    # Main EPizza Application
 ├── Python/              # Python Data & ML Services
 ├── React/               # React Frontend Applications
 ├── Azure/               # Azure Cloud Infrastructure & DevOps
