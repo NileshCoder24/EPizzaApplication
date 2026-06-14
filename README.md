@@ -1,4 +1,4 @@
-# EPizza Application - Multi-Tech Stack Repository
+# EPizza Application -
 
 A comprehensive monorepo containing supporting services and infrastructure for the EPizza Application built with multiple technologies: .NET, Python, React, and Azure.
 
@@ -6,18 +6,12 @@ A comprehensive monorepo containing supporting services and infrastructure for t
 
 ```
 EPizzaApplication/
-├── .NET/                 # .NET Backend Services
-├── Python/              # Python Data & ML Services
-├── React/               # React Frontend Applications
-├── Azure/               # Azure Cloud Infrastructure & DevOps
 └── README.md
 ```
 
 ## Technology Stack
 
 - **Backend (.NET)**: C#, ASP.NET Core
-- **Data/ML (Python)**: Data processing, Analytics, Machine Learning
-- **Frontend (React)**: React, TypeScript, Web Applications
 - **Cloud (Azure)**: Infrastructure, Functions, DevOps, Configuration
 
 ## Getting Started
@@ -25,8 +19,6 @@ EPizzaApplication/
 Each parent directory contains its own projects and documentation. Navigate to the respective folder to get started:
 
 - [.NET Documentation](./.NET/README.md)
-- [Python Documentation](./Python/README.md)
-- [React Documentation](./React/README.md)
 - [Azure Documentation](./Azure/README.md)
 
 ## Contributing
